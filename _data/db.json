@@ -1,0 +1,81 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ipsum Triforce sit amet",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "Lorem ipsum Triforce sit amet",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer links",
+      "body": "Lorem ipsum Triforce sit amet",
+      "priority": "high",
+      "user_email": "peach@netninja.dev"
+    },
+    {
+      "title": "Yes ",
+      "body": "Haha",
+      "priority": "high",
+      "user_email": "mario@netninja.dev",
+      "id": "alAGNR8"
+    },
+    {
+      "title": "TESTINKKKK",
+      "body": "GRRRR....",
+      "priority": "low",
+      "user_email": "mario@netninja.dev",
+      "id": "Ftx5ODF"
+    },
+    {
+      "title": "GGGGG",
+      "body": "feefde",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "id": "2JyASrl"
+    },
+    {
+      "title": "fwe",
+      "body": "feew",
+      "priority": "low",
+      "user_email": "mario@netninja.dev",
+      "id": "l6dx6Oq"
+    },
+    {
+      "title": "Hey Hoi!!",
+      "body": "HHHWWW",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "id": "PWbpogC"
+    },
+    {
+      "title": "testing",
+      "body": "bla blah blah",
+      "user_email": "luigi@ninja.dev",
+      "priority": "high",
+      "id": "YrgUdsI"
+    },
+    {
+      "title": "edfe",
+      "body": "dedwe",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "id": "z7zozbC"
+    },
+    {
+      "title": "r3r",
+      "body": "r32r3",
+      "priority": "low",
+      "user_email": "mario@netninja.dev",
+      "id": "4okPHLN"
+    }
+  ]
+}
